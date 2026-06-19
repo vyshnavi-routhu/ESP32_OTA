@@ -1,4 +1,4 @@
 {
   "version": "1.0.0",
-  "firmware_url": "https://vyshnavi-routhu.github.io/ESP32_OTA/esp_mqtt.ino.bin"
+  "firmware_url": "https://raw.githubusercontent.com/vyshnavi-routhu/ESP32_OTA/refs/heads/main/firmware.ino.bin"
 }
