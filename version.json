@@ -1,4 +1,4 @@
-{
+ {
   "version": "1.0.5",
-  "firmware_url": "https://raw.githubusercontent.com/vyshnavirouthu-hub/ESP32OTA/main//firmware.ino.bin"
+  "firmware": "https://raw.githubusercontent.com/vyshnavirouthu-hub/ESP32OTA/main/firmware.ino.bin"
 }
